@@ -1,6 +1,20 @@
-# TourOfHeroes
+# Tour Of Heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
+- [x] Start from the official quick-start and CLI
+- [x] Client side routing
+  - [x] Three main routes Dashboard, Heroes
+- [x] API
+  - [x] Angular In-Memory Web API as a backend
+  - [x] HTTP - Uses most common client http libraries for each framework
+- [x] Styling
+  - [x] SCSS
+- [x] Editing - Heroes are be editable (add, update, delete)
+- [x] Web development server handles fallback routing
+- [x] Generic components
+  - [x] Modal
+  - [x] Card
+  - [x] Nav bar
+- [x] Props in and emit events out
 
 ## Development server
 
