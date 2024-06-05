@@ -1,20 +1,48 @@
 # Tour Of Heroes
 
-- [x] Start from the official quick-start and CLI
-- [x] Client side routing
-  - [x] Three main routes Dashboard, Heroes
-- [x] API
-  - [x] Angular In-Memory Web API as a backend
-  - [x] HTTP - Uses most common client http libraries for each framework
-- [x] Styling
-  - [x] SCSS
-- [x] Editing - Heroes are be editable (add, update, delete)
-- [x] Web development server handles fallback routing
-- [x] Generic components
-  - [x] Modal
-  - [x] Card
-  - [x] Nav bar
-- [x] Props in and emit events out
+## Features Implemented
+
+### 1. Hero Editor Component
+
+- Created a component to allow users to view and edit the details of a hero.
+
+### 2. Displaying a List of Heroes
+
+- Implemented functionality to display a list of heroes using Angular's data binding and structural directives.
+- Developed master/detail views to enable users to select a hero from the list and view/edit its details.
+
+### 3. Services for Data Management
+
+- Created Angular services to manage hero data, encapsulating data access and business logic.
+- Integrated Angular's HTTP client module to fetch and save hero data from/to a remote server.
+- Used Angular In-Memory Web API as a backend for testing and development purposes.
+
+### 4. Routing and Navigation
+
+- Implemented client-side routing to navigate between different views in the application, such as the dashboard and hero details view.
+- Defined two main routes: Dashboard, Heroes.
+- Ensured the web development server handles fallback routing.
+
+### 5. HTTP Client Integration
+
+- Utilized Angular's HTTP client module to manage HTTP requests, ensuring efficient data fetch and save operations.
+
+### 6. Search Functionality
+
+- Added search functionality to filter the list of heroes based on user input.
+
+### 7. Editing Features
+
+- Implemented functionalities for adding, updating, and deleting heroes, making them editable within the application.
+
+### 8. Styling
+
+- Applied SCSS for styling to enhance the visual appeal and maintainability of the application.
+
+### 9. Generic Components
+
+- Developed reusable components such as Modal, Card, and Nav bar to ensure a consistent user interface.
+- Managed component interactions with props in and event emitters out.
 
 ## Development server
 
