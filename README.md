@@ -1,5 +1,8 @@
 # Tour Of Heroes
 
+This is a repository focuses on the learning and understanding fundamentals of `Angular`'s structure and concepts.
+It also includes learning the usage of `SCSS` with `Angular`.
+
 ## Features Implemented
 
 ### 1. Hero Editor Component
@@ -8,14 +11,14 @@
 
 ### 2. Displaying a List of Heroes
 
-- Implemented functionality to display a list of heroes using Angular's data binding and structural directives.
+- Implemented functionality to display a list of heroes using `Angular`'s data binding and structural directives.
 - Developed master/detail views to enable users to select a hero from the list and view/edit its details.
 
 ### 3. Services for Data Management
 
-- Created Angular services to manage hero data, encapsulating data access and business logic.
-- Integrated Angular's HTTP client module to fetch and save hero data from/to a remote server.
-- Used Angular In-Memory Web API as a backend for testing and development purposes.
+- Created `Angular` services to manage hero data, encapsulating data access and business logic.
+- Integrated `Angular`'s HTTP client module to fetch and save hero data from/to a remote server.
+- Used `Angular` In-Memory Web API as a backend for testing and development purposes.
 
 ### 4. Routing and Navigation
 
@@ -25,7 +28,7 @@
 
 ### 5. HTTP Client Integration
 
-- Utilized Angular's HTTP client module to manage HTTP requests, ensuring efficient data fetch and save operations.
+- Utilized `Angular`'s HTTP client module to manage HTTP requests, ensuring efficient data fetch and save operations.
 
 ### 6. Search Functionality
 
