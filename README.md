@@ -1,9 +1,11 @@
-# Tour Of Heroes
+# Learning-Angular
+
+## Tour of Heroes
 
 This is a repository focuses on the learning and understanding fundamentals of `Angular`'s structure and concepts.
 It also includes learning the usage of `SCSS` with `Angular`.
 
-[Check it out!](https://locolin1204.github.io/Tour-Of-Heroes/)
+[Check it out!](https://locolin1204.github.io/Learning-Angular/)
 
 ## Features Implemented
 
